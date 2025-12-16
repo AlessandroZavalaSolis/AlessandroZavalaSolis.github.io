@@ -1,0 +1,13 @@
+---
+title: "Académico"
+---
+
+Este espacio está dedicado a mi formación académica y a los temas
+que estudio en Actuaría y Ciencia de Datos.
+
+Aquí irán:
+- Apuntes
+- Ideas teóricas
+- Reflexiones sobre matemáticas y probabilidad
+
+En construcción.

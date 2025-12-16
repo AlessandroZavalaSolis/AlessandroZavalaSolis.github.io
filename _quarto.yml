@@ -1,0 +1,18 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Alessandro"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Inicio
+      - href: academico.qmd
+        text: Académico
+      - href: finanzas.qmd
+        text: Finanzas
+
+format:
+  html:
+    theme: cosmo

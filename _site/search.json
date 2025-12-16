@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Inicio",
+    "section": "",
+    "text": "Estudiante de Actuaría y Ciencia de Datos.\nEste sitio crecerá con el tiempo."
+  },
+  {
+    "objectID": "academico.html",
+    "href": "academico.html",
+    "title": "Académico",
+    "section": "",
+    "text": "Este espacio está dedicado a mi formación académica y a los temas que estudio en Actuaría y Ciencia de Datos.\nAquí irán: - Apuntes - Ideas teóricas - Reflexiones sobre matemáticas y probabilidad\nEn construcción."
+  },
+  {
+    "objectID": "finanzas.html",
+    "href": "finanzas.html",
+    "title": "Finanzas",
+    "section": "",
+    "text": "Este espacio está enfocado en finanzas, riesgo y modelos cuantitativos.\nAquí documentaré: - Conceptos financieros - Ideas de inversión - Modelos y ejercicios aplicados\nEn construcción."
+  }
+]

@@ -1,0 +1,12 @@
+---
+title: "Finanzas"
+---
+
+Este espacio está enfocado en finanzas, riesgo y modelos cuantitativos.
+
+Aquí documentaré:
+- Conceptos financieros
+- Ideas de inversión
+- Modelos y ejercicios aplicados
+
+En construcción.
